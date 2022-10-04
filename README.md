@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/109683297/193765709-25c392c8-faee-4668-a420-2ea4f4ede3d8.png)
+## <img src="https://user-images.githubusercontent.com/109683297/193765709-25c392c8-faee-4668-a420-2ea4f4ede3d8.png" width="550"/>
+
 # Clasificación de Erupciones Volcánicas
 Este proyecto es parte de la fase preliminar del hackatlón organizado por IT Academy, 42 Barcelona y Barcelona Digital Talent.
 
