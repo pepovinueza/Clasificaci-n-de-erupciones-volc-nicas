@@ -1,1 +1,1 @@
-# Clasificaci-n-de-erupciones-volc-nicas
+# Clasificación de Erupciones Volcánicas
