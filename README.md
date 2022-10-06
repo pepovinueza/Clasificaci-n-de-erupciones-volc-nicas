@@ -36,4 +36,5 @@ Variables del dataset:
 ## Archivos del repositorio
   * __Clasificación de Erupciones Volcánicas__: Notebook que recoge todo el proceso de escoger y crear el modelo para predecir los datos.
   * __jm_X_prediction.csv__: Archivo csv que contiene las predicciones calculadas con el mejor modelo estudiado. 
+  * __jm_X_prediction.json__: Archivo json que contiene las predicciones calculadas con el mejor modelo estudiado. 
   
